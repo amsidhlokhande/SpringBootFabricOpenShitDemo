@@ -66,6 +66,7 @@
 				<configuration>
 				    <generateRoute>true</generateRoute>
 				    <namespace>amsidh-project</namespace>
+				    <skipMachine>true</skipMachine>
 				</configuration>
 				<executions>
 					<execution>
